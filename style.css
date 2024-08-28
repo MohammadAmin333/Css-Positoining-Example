@@ -1,0 +1,39 @@
+div{
+  border: 5px solid #0D7C66;
+  right: 25px;
+}
+div.fixed{
+  position: fixed;
+  bottom: 40px;
+  right: 30px;
+  border:60 px;
+  width: 150px;
+  height: 160px;
+  background-color: #295F98;
+  
+}
+div.sticky{
+  position: sticky;
+  bottom: 30px;
+  border: 35px;
+  height: 100px;
+  width: 190px;
+  background-color: #FABC3F;
+}
+div.relative{
+  position: relative;
+  left: 80px;
+  border: 60px;
+  height: 100px;
+  width: 190px;
+  background-color: #AD49E1;
+}
+div.absoulte{
+  position: absolute;
+  left: 100px;
+  top: 80px;
+  right: 188px;
+  height: 120px;
+  width: 130px;
+  background-color: #D1E9F6;
+}
